@@ -17,7 +17,7 @@ DarkSteel is a simple, yet engaging arena shooter game developed for a universit
 
 ## Contributors
 
-| name           | github                                            |
-| -------------- | ------------------------------------------------- |
-| Marcos Nicolau | [MarcosNicolau](https://github.com/MarcosNicolau) |
-| Lautaro Moyano | [nullspace1](https://github.com/nullspace1)       |
+| name           | github                                            | picture |
+| -------------- | ------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Marcos Nicolau | [MarcosNicolau](https://github.com/MarcosNicolau) | <img src="https://avatars.githubusercontent.com/u/76252340?v=4"  width="100" /> |
+| Lautaro Moyano | [nullspace1](https://github.com/nullspace1)       | <img src="https://avatars.githubusercontent.com/u/36833412?v=4"  width="100" /> |
